@@ -1,0 +1,16 @@
+.field-box {
+  border-color: rgba(64, 67, 72, 1);
+  background-color: #282b30;
+}
+
+.conjunction-btn {
+  border: 0.125rem solid rgba(64, 67, 72, 1);
+}
+
+.btn-l {
+  border-right: 0px;
+}
+
+.active {
+  background-color: #5c61f0;
+}
